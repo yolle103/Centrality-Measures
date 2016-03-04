@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1457057987 source:d:\learn\w\projectcentrality\main.cpp
+	<iostream>
+	"GraphMatrix.cpp"
+
+1457058162 d:\learn\w\projectcentrality\graphmatrix.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<ostream>
+	<stdio.h>
+	<sstream>
+	<time.h>
+	<string.h>
+	<cstring>
+	<ctime>
+	<vector>
+	<string>
+	<algorithm>
+	<list>
+	<map>
+	<ctype.h>
+	<ctime>
+
+1457058155 d:\learn\w\projectcentrality\graphmatrix.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<ostream>
+	<stdio.h>
+	<sstream>
+	<time.h>
+	<string.h>
+	<cstring>
+	<ctime>
+	<vector>
+	<string>
+	<algorithm>
+	<list>
+	<map>
+	<ctype.h>
+	<ctime>
+	"GraphMatrix.h"
+
